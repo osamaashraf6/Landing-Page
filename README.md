@@ -50,7 +50,9 @@
 - [x] Follow HTML, CSS best practices 😊
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-## 🚀Live Demo: [Click here](https://rawcdn.githack.com/osamaashraf6/Landing-Page/73ed57e94afc07861b4526372c371a844ea9ea0f/src/index.html)
+ 🚀Live Demo: 
+
+[click here](https://rawcdn.githack.com/osamaashraf6/Landing-Page/73ed57e94afc07861b4526372c371a844ea9ea0f/src/index.html)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
