@@ -1,0 +1,15 @@
+{
+  "name": "landing-page-tailwind-css",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^4.0.9"
+  }
+}
